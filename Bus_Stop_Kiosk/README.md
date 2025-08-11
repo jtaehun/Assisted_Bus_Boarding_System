@@ -1,6 +1,5 @@
-버스 정류장 키오스크
+버스 정류장 키오스크 (Client)
 #
-역할 : Client
 하드웨어 : 젯슨 나노(Jetson Nano)
 
 Python Code :
